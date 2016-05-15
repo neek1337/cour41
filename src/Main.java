@@ -65,6 +65,7 @@ public class Main {
         }
 
 
+
         JFrame frame = new JFrame("Test");
         frame.setBounds(0, 0, 400, 500);
         frame.setVisible(true);
